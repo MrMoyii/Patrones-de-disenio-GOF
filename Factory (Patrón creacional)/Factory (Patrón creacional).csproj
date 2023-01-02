@@ -7,7 +7,7 @@
     <ProjectGuid>{5B403D96-341E-4433-90BD-DA04A4170204}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Factory__Patrón_creacional_</RootNamespace>
-    <AssemblyName>Factory__Patrón_creacional_</AssemblyName>
+    <AssemblyName>Factory %28Patrón creacional%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConexionMySQL.cs" />
+    <Compile Include="ConexionPostgreSQL.cs" />
+    <Compile Include="IConexion.cs" />
+    <Compile Include="ConexionOracle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
