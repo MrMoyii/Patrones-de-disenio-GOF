@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConexionFabrica.cs" />
     <Compile Include="ConexionMySQL.cs" />
+    <Compile Include="ConexionSQLServer.cs" />
     <Compile Include="ConexionPostgreSQL.cs" />
+    <Compile Include="ConexionVacia.cs" />
     <Compile Include="IConexion.cs" />
     <Compile Include="ConexionOracle.cs" />
     <Compile Include="Program.cs" />
