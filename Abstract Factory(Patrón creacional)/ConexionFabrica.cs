@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Abstract_Factory_Patrón_creacional_;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Factory__Patrón_creacional_
 {
-    internal class ConexionFabrica
+    internal class ConexionFabrica : FabricaAbstracta
     {
-        public IConexion GetConexion(string motor)
+        public IConexion getBD(string motor)
         {
-            if (motor == null)
+            if(motor == null)
                 return new ConexionVacia();
 
             if (motor.Equals("MYSQL"))
@@ -23,6 +24,11 @@ namespace Factory__Patrón_creacional_
                 return new ConexionSQLServer();
 
             return new ConexionVacia();
+        }
+
+        public IConexionREST getREST(string area)
+        {
+            return null;
         }
     }
 }
