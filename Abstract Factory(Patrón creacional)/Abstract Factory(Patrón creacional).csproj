@@ -7,7 +7,7 @@
     <ProjectGuid>{D9728F06-A456-4038-8B27-0B9448D4E3BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Abstract_Factory_Patrón_creacional_</RootNamespace>
-    <AssemblyName>Abstract_Factory_Patrón_creacional_</AssemblyName>
+    <AssemblyName>Abstract Factory%28Patrón creacional%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConexionRESTFabrica.cs" />
+    <Compile Include="ConexionFabrica.cs" />
+    <Compile Include="ConexionMySQL.cs" />
+    <Compile Include="ConexionOracle.cs" />
+    <Compile Include="ConexionPostgreSQL.cs" />
+    <Compile Include="ConexionRESTNoArea.cs" />
+    <Compile Include="ConexionRESTVentas.cs" />
+    <Compile Include="ConexionRESTCompras.cs" />
+    <Compile Include="ConexionSQLServer.cs" />
+    <Compile Include="ConexionVacia.cs" />
+    <Compile Include="FabricaAbstracta.cs" />
+    <Compile Include="FabricaProductor.cs" />
+    <Compile Include="IConexion.cs" />
+    <Compile Include="IConexionREST.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
