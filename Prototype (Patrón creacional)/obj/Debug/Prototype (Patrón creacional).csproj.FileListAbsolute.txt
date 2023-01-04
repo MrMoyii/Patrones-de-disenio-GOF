@@ -1,0 +1,8 @@
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\bin\Debug\Prototype (Patrón creacional).exe.config
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\bin\Debug\Prototype (Patrón creacional).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\bin\Debug\Prototype (Patrón creacional).pdb
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\obj\Debug\Prototype (Patrón creacional).csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\obj\Debug\Prototype (Patrón creacional).csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\obj\Debug\Prototype (Patrón creacional).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\obj\Debug\Prototype (Patrón creacional).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Prototype (Patrón creacional)\obj\Debug\Prototype (Patrón creacional).pdb

@@ -7,7 +7,7 @@
     <ProjectGuid>{69C707D0-2930-4108-B726-D84B8DF7D14B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Prototype__Patrón_creacional_</RootNamespace>
-    <AssemblyName>Prototype__Patrón_creacional_</AssemblyName>
+    <AssemblyName>Prototype %28Patrón creacional%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CuentaAHImpl.cs" />
+    <Compile Include="ICuenta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
