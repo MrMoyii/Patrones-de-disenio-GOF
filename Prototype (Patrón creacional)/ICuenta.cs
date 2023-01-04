@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Prototype__Patrón_creacional_
 {
-    internal interface ICuenta
+    internal interface ICuenta : ICloneable
     {
+        ICuenta Clonar();
     }
 }
