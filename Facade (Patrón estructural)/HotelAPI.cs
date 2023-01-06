@@ -8,7 +8,7 @@ namespace Facade__Patrón_estructural_
 {
     internal class HotelAPI
     {
-        public void BuscarVuelos(string fechaEntrada, string fechaSalida, string origen, string destino)
+        public void BuscarHoteles(string fechaEntrada, string fechaSalida, string origen, string destino)
         {
             Console.WriteLine("===================================");
             Console.WriteLine("Hoteles encontrados");
