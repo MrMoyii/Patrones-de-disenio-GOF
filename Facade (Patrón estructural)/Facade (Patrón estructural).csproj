@@ -7,7 +7,7 @@
     <ProjectGuid>{9CF22110-50B7-42B7-BCA9-38ABD0CC4CC9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Facade__Patrón_estructural_</RootNamespace>
-    <AssemblyName>Facade__Patrón_estructural_</AssemblyName>
+    <AssemblyName>Facade %28Patrón estructural%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckFacade.cs" />
+    <Compile Include="HotelAPI.cs" />
+    <Compile Include="AvionAPI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

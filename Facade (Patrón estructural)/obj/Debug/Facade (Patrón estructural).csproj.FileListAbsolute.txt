@@ -1,0 +1,8 @@
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\bin\Debug\Facade (Patrón estructural).exe.config
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\bin\Debug\Facade (Patrón estructural).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\bin\Debug\Facade (Patrón estructural).pdb
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\obj\Debug\Facade (Patrón estructural).csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\obj\Debug\Facade (Patrón estructural).csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\obj\Debug\Facade (Patrón estructural).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\obj\Debug\Facade (Patrón estructural).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Facade (Patrón estructural)\obj\Debug\Facade (Patrón estructural).pdb
