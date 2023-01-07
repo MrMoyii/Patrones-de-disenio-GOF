@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype (Patrón creacion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade (Patrón estructural)", "Facade (Patrón estructural)\Facade (Patrón estructural).csproj", "{9CF22110-50B7-42B7-BCA9-38ABD0CC4CC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator (Patrón estructural)", "Decorator (Patrón estructural)\Decorator (Patrón estructural).csproj", "{B501923D-E76F-42E7-88D3-805D34A81F26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9CF22110-50B7-42B7-BCA9-38ABD0CC4CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CF22110-50B7-42B7-BCA9-38ABD0CC4CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CF22110-50B7-42B7-BCA9-38ABD0CC4CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B501923D-E76F-42E7-88D3-805D34A81F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B501923D-E76F-42E7-88D3-805D34A81F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B501923D-E76F-42E7-88D3-805D34A81F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B501923D-E76F-42E7-88D3-805D34A81F26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
