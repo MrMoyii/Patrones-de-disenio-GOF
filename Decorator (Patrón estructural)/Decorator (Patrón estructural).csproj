@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BlindajeDecorador.cs" />
     <Compile Include="Cuenta.cs" />
+    <Compile Include="CuentaAhorro.cs" />
+    <Compile Include="CuentaCorriente.cs" />
+    <Compile Include="CuentaDecorador.cs" />
+    <Compile Include="ICuentaBancaria.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
