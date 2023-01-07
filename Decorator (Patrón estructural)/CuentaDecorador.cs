@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Decorator__Patrón_estructural_
 {
-    internal class CuentaDecorador : ICuentaBancaria
+    internal abstract class CuentaDecorador : ICuentaBancaria
     {
         protected ICuentaBancaria cuentaDecorada;
 
