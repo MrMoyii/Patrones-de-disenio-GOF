@@ -10,6 +10,12 @@ namespace Factory__ej_con_gatos___Patrón_creacional_
     {
         static void Main(string[] args)
         {
+            IGatoCompañero gatoCompañero = new FabricaDeGatos().Crear();
+
+            gatoCompañero.jugar();
+            gatoCompañero.alimentar();
+
+            Console.ReadKey();
         }
     }
 }

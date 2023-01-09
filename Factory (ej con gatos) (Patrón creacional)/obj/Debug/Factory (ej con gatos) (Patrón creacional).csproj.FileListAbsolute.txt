@@ -1,0 +1,8 @@
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\bin\Debug\Factory (ej con gatos) (Patrón creacional).exe.config
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\bin\Debug\Factory (ej con gatos) (Patrón creacional).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\bin\Debug\Factory (ej con gatos) (Patrón creacional).pdb
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\obj\Debug\Factory (ej con gatos) (Patrón creacional).csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\obj\Debug\Factory (ej con gatos) (Patrón creacional).csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\obj\Debug\Factory (ej con gatos) (Patrón creacional).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\obj\Debug\Factory (ej con gatos) (Patrón creacional).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Factory (ej con gatos) (Patrón creacional)\obj\Debug\Factory (ej con gatos) (Patrón creacional).pdb
