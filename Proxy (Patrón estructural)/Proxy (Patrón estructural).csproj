@@ -7,7 +7,7 @@
     <ProjectGuid>{040EE928-D192-4F3F-AD21-66F371FB59DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Proxy__Patrón_estructural_</RootNamespace>
-    <AssemblyName>Proxy__Patrón_estructural_</AssemblyName>
+    <AssemblyName>Proxy %28Patrón estructural%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cuenta.cs" />
+    <Compile Include="CuentaBancoAImpl.cs" />
+    <Compile Include="CuentaProxy.cs" />
+    <Compile Include="ICuenta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
