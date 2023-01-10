@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Cuenta.cs" />
     <Compile Include="DepositarImpl.cs" />
+    <Compile Include="Invoker.cs" />
     <Compile Include="IOperacion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
