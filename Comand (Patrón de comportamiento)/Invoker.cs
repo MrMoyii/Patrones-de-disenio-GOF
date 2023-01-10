@@ -17,6 +17,7 @@ namespace Comand__Patrón_de_comportamiento_
         public void realizarOperacion()
         {
             this.operaciones.ForEach(operacion => { operacion.execute(); });
+            this.operaciones.Clear();
         }
     }
 }
