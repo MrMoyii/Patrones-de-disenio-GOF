@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Comand__Patrón_de_comportamiento_
 {
+    //Receiver/Request
     internal class Cuenta
     {
         private int id;
