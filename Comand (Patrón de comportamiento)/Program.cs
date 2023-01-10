@@ -10,6 +10,10 @@ namespace Comand__Patrón_de_comportamiento_
     {
         static void Main(string[] args)
         {
+            //El obejtivo de este patrón es tener un enfoque
+            //orientado a Comandos.
+            /*Ampliamente utilizado en GUI*/
+
             Cuenta cuenta = new Cuenta(1, 200);
 
             DepositarImpl opDepositar = new DepositarImpl(cuenta, 100); //Comando depositar
