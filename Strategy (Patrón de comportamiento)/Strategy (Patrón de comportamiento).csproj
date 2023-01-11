@@ -7,7 +7,7 @@
     <ProjectGuid>{99244360-6915-4F83-8778-4E3887D3F5E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Strategy__Patrón_de_comportamiento_</RootNamespace>
-    <AssemblyName>Strategy__Patrón_de_comportamiento_</AssemblyName>
+    <AssemblyName>Strategy %28Patrón de comportamiento%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnalisisAvanzado.cs" />
+    <Compile Include="AnalisisSimple.cs" />
+    <Compile Include="AntivirusAvanzado.cs" />
+    <Compile Include="AntivirusSimple.cs" />
+    <Compile Include="Contexto.cs" />
+    <Compile Include="IEstrategia.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

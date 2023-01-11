@@ -16,6 +16,8 @@ namespace Strategy__Patrón_de_comportamiento_
 
             Contexto contexto = new Contexto(new AntivirusAvanzado());
             contexto.Ejecutar();
+
+            Console.ReadKey();
         }
     }
 }

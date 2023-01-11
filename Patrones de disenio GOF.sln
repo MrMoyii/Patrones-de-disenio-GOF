@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento (Patrón de comport
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer (Patrón de comportamiento)", "Observer (Patrón de comportamiento)\Observer (Patrón de comportamiento).csproj", "{79A59988-3C6E-4F73-97AF-6CA9DFF9D451}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy (Patrón de comportamiento)", "Strategy (Patrón de comportamiento)\Strategy (Patrón de comportamiento).csproj", "{99244360-6915-4F83-8778-4E3887D3F5E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{79A59988-3C6E-4F73-97AF-6CA9DFF9D451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A59988-3C6E-4F73-97AF-6CA9DFF9D451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A59988-3C6E-4F73-97AF-6CA9DFF9D451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99244360-6915-4F83-8778-4E3887D3F5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99244360-6915-4F83-8778-4E3887D3F5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99244360-6915-4F83-8778-4E3887D3F5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99244360-6915-4F83-8778-4E3887D3F5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
