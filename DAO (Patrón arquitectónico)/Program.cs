@@ -12,6 +12,8 @@ namespace DAO__Patrón_arquitectónico_
         {
             PersonaDAO dao = new PersonaDAOImpl();
             dao.listarTodos().ForEach(x => { Console.WriteLine(x.getNombres()); });
+
+            Console.ReadKey();
         }
     }
 }

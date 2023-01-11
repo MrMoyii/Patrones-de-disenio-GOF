@@ -1,0 +1,8 @@
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\bin\Debug\DAO (Patrón arquitectónico).exe.config
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\bin\Debug\DAO (Patrón arquitectónico).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\bin\Debug\DAO (Patrón arquitectónico).pdb
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\obj\Debug\DAO (Patrón arquitectónico).csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\obj\Debug\DAO (Patrón arquitectónico).csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\obj\Debug\DAO (Patrón arquitectónico).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\obj\Debug\DAO (Patrón arquitectónico).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\DAO (Patrón arquitectónico)\obj\Debug\DAO (Patrón arquitectónico).pdb

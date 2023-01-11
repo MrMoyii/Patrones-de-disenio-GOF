@@ -7,7 +7,7 @@
     <ProjectGuid>{A9B40741-64DE-4347-9056-81342E65E018}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>DAO__Patrón_arquitectónico_</RootNamespace>
-    <AssemblyName>DAO__Patrón_arquitectónico_</AssemblyName>
+    <AssemblyName>DAO %28Patrón arquitectónico%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Persona.cs" />
+    <Compile Include="PersonaDAO.cs" />
+    <Compile Include="PersonaDAOImpl.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
