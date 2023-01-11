@@ -34,5 +34,4 @@ namespace Strategy__Patrón_de_comportamiento_
             Console.WriteLine("Antivirus Simple - Análisis simple finalizado");
         }
     }
-    }
 }
