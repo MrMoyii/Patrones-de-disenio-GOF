@@ -10,7 +10,7 @@ namespace DAO__Patrón_arquitectónico_
     {
         static void Main(string[] args)
         {
-            PersonaDAO dao = new PersonaDAOImpl();
+            CRUD<Persona> dao = new PersonaDAOImpl();
             dao.listarTodos().ForEach(x => { Console.WriteLine(x.getNombres()); });
 
             Persona per = new Persona();

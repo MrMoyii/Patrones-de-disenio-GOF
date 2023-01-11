@@ -48,5 +48,9 @@ namespace DAO__Patrón_arquitectónico_
             Console.WriteLine("id " + id + " eliminado");
         }
 
+        public void mostrarNombre(Persona persona)
+        {
+            Console.WriteLine("Nombre de la persona: " + persona.getNombres());
+        }
     }
 }
