@@ -13,6 +13,11 @@ namespace DAO__Patrón_arquitectónico_
             PersonaDAO dao = new PersonaDAOImpl();
             dao.listarTodos().ForEach(x => { Console.WriteLine(x.getNombres()); });
 
+            Persona per = new Persona();
+            per.setNombres("MoyiCode");
+            dao.registrar(per);
+
+
             Console.ReadKey();
         }
     }
