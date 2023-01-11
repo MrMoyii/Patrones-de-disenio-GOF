@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CRUD.cs" />
+    <Compile Include="Medico.cs" />
+    <Compile Include="MedicoDAO.cs" />
+    <Compile Include="MedicoDAOImpl.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="PersonaDAO.cs" />
     <Compile Include="PersonaDAOImpl.cs" />
