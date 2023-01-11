@@ -1,0 +1,8 @@
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\bin\Debug\Observer (Patrón de comportamiento).exe.config
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\bin\Debug\Observer (Patrón de comportamiento).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\bin\Debug\Observer (Patrón de comportamiento).pdb
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\obj\Debug\Observer (Patrón de comportamiento).csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\obj\Debug\Observer (Patrón de comportamiento).csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\obj\Debug\Observer (Patrón de comportamiento).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\obj\Debug\Observer (Patrón de comportamiento).exe
+D:\Users\omarm\source\repos\Patrones de disenio GOF\Observer (Patrón de comportamiento)\obj\Debug\Observer (Patrón de comportamiento).pdb
