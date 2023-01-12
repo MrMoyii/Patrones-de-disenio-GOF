@@ -6,17 +6,22 @@ using System.Threading.Tasks;
 
 namespace Inyección_de_dependencias
 {
-    internal class Conexion
+    internal class ConexionMySQL : IConexion
     {
         private string usuario;
         private string clave;
         private string host;
 
-        public Conexion(string usuario, string clave, string host)
+        public ConexionMySQL(string usuario, string clave, string host)
         {
             this.usuario = usuario;
             this.clave = clave;
             this.host = host;
+        }
+
+        public void conectar()
+        {
+            Console.WriteLine("Conectando a MySQL");
         }
     }
 }
