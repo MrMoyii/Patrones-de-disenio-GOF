@@ -9,8 +9,8 @@ namespace DAO__Patrón_arquitectónico_
 {
     internal class PersonaDAOImpl : PersonaDAO
     {
-        private Conexion conexion;
-        public PersonaDAOImpl(Conexion conexion)
+        private IConexion conexion;
+        public PersonaDAOImpl(IConexion conexion)
         {
             this.conexion = conexion;
         }
