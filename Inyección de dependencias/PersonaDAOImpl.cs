@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Inyección_de_dependencias;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,12 @@ namespace DAO__Patrón_arquitectónico_
 {
     internal class PersonaDAOImpl : PersonaDAO
     {
+        private Conexion conexion;
+        public PersonaDAOImpl(Conexion conexion)
+        {
+            this.conexion = conexion;
+        }
+
         public List<Persona> listarTodos()
         {
             List<Persona> lista = new List<Persona>();
@@ -51,6 +58,11 @@ namespace DAO__Patrón_arquitectónico_
         public void mostrarNombre(Persona persona)
         {
             Console.WriteLine("Nombre de la persona: " + persona.getNombres());
+        }
+
+        public void mostrarNombre()
+        {
+            throw new NotImplementedException();
         }
     }
 }
