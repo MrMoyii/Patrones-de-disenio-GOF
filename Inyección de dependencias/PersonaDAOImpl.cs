@@ -17,20 +17,9 @@ namespace DAO__Patrón_arquitectónico_
 
         public List<Persona> listarTodos()
         {
-            List<Persona> lista = new List<Persona>();
-            Persona per = new Persona();
-            per.setID(1);
-            per.setNombres("Moyi");
-
-            lista.Add(per);
-
-            per = new Persona();
-            per.setID(2);
-            per.setNombres("Code");
-
-            lista.Add(per);
-
-            return lista;
+            //usando this.conexion
+            Console.WriteLine("Listando...");
+            return null;
         }
 
         public Persona leerPorId(int id)
