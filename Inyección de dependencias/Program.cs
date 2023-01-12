@@ -11,9 +11,9 @@ namespace Inyección_de_dependencias
     {
         static void Main(string[] args)
         {
-            ConexionMySQL cx1 = new ConexionMySQL("Moyi", "7482", "localhost");
+            IConexion cx1 = new ConexionMySQL("Moyi", "7482", "localhost");
 
-            ConexionMySQL cx2 = new ConexionMySQL("Moyi", "7482", "192.168.1.1");
+            IConexion cx2 = new ConexionPostgre("Moyi", "7482", "192.168.1.1");
 
             PersonaDAO dao = new PersonaDAOImpl(cx1);
 

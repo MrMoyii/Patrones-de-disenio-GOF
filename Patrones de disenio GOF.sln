@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy (Patrón de compor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO (Patrón arquitectónico)", "DAO (Patrón arquitectónico)\DAO (Patrón arquitectónico).csproj", "{A9B40741-64DE-4347-9056-81342E65E018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inyección de dependencias", "Inyección de dependencias\Inyección de dependencias.csproj", "{B16FADF2-7820-41C6-B5AD-E27C6417A882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A9B40741-64DE-4347-9056-81342E65E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9B40741-64DE-4347-9056-81342E65E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9B40741-64DE-4347-9056-81342E65E018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16FADF2-7820-41C6-B5AD-E27C6417A882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16FADF2-7820-41C6-B5AD-E27C6417A882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16FADF2-7820-41C6-B5AD-E27C6417A882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16FADF2-7820-41C6-B5AD-E27C6417A882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
